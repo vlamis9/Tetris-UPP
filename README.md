@@ -11,4 +11,4 @@ Screenshots of the game:
 
 ![Image alt](https://github.com/vlamis9/Tetris-UPP/blob/master/Tetris.png)
 
-![Image alt](https://github.com/vlamis9/CRM-Lawyer-s-helper-/blob/master/Tetris2.png)
+![Image alt](https://github.com/vlamis9/Tetris-UPP/blob/master/Tetris2.png)
