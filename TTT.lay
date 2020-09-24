@@ -1,0 +1,14 @@
+LAYOUT(MainLayout, 407, 373)
+	ITEM(NextFigure, myctrl, LeftPosZ(22, 69).TopPosZ(29, 99))
+	ITEM(Glass, glass, LeftPosZ(104, 151).TopPosZ(28, 324))
+	ITEM(Button, buttonStart, SetLabel(t_("Start")).LeftPosZ(266, 77).TopPosZ(28, 22))
+	ITEM(Button, buttonPause, SetLabel(t_("Pause")).LeftPosZ(277, 56).TopPosZ(53, 16))
+	ITEM(Label, labelScore, SetLabel(t_("Score")).SetFont(SerifZ(14).Bold()).LeftPosZ(288, 40).TopPosZ(132, 19))
+	ITEM(Button, buttonContinue, SetLabel(t_("Continue")).LeftPosZ(281, 51).TopPosZ(72, 16))
+	ITEM(Button, buttonExit, SetLabel(t_("Exit")).LeftPosZ(288, 38).TopPosZ(92, 23))
+	ITEM(Button, buttonFill, SetLabel(t_("Fill for Test")).LeftPosZ(283, 56).TopPosZ(251, 15))
+	ITEM(Button, buttonTest, SetLabel(t_("Test")).LeftPosZ(283, 56).TopPosZ(270, 15))
+	ITEM(Score, scoreView, LeftPosZ(260, 103).TopPosZ(152, 89))
+	ITEM(Label, labelNext, SetLabel(t_("Next figure")).LeftPosZ(24, 64).TopPosZ(8, 19))
+END_LAYOUT
+
